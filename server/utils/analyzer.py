@@ -1,7 +1,7 @@
 import spacy
 import cohere
 
-co = cohere.Client("hJi3f9aG2VNxWS9dZCwmqrsv62dswdSk5Va5hwX1") 
+co = cohere.Client("your key") 
 nlp = spacy.load("en_core_web_sm")
 
 # Sample keyword list
