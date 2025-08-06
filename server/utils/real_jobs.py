@@ -4,7 +4,7 @@ def fetch_real_jobs(query):
     url = "https://jsearch.p.rapidapi.com/search"
 
     headers = {
-        "X-RapidAPI-Key": "2fcaee3306mshd31ec54ae341b26p106210jsnd731b629ae33",  # Replace with your key
+        "X-RapidAPI-Key": "",  # Replace with your key
         "X-RapidAPI-Host": "jsearch.p.rapidapi.com"
     }
 
